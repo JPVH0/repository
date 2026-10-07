@@ -1,3 +1,3 @@
-welcome{
-    System.out.println("welcome")
-}
+public class welcome{
+    public static void main (String args[]){
+}}
